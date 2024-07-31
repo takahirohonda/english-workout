@@ -35,3 +35,9 @@
 17. It's critical to practise different paradiddle patterns every day.
 
 18. I'm bleeding and he's breeding.
+
+19. I like using a bow and arrow when I play Elden Ring.
+
+20. What is the plural of that word?
+
+21. You can eat the roots as well as the leaves.
