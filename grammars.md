@@ -228,3 +228,16 @@ To talk about specific items of news:
 ✅ `the` paper because I'm referring to the cigarette paper if I say I ran out of the paper. It's clearer to have the definite article in front of `paper`. But, if I say `cigarette paper`, the is not necessary. I ran out of cigarette paper. In this case, cigarette paper is a collective noun and don't need the.
 
 </details>
+
+<details>
+<summary>
+19. The code has an indentation.
+</summary>
+
+**Answer** <br />
+"Indentation" is an uncountable noun in this context (like "sugar" or "water").
+
+✅ Correct: "The code has indentation."
+❌ Incorrect: "The code has an indentation." (unless you're referring to one specific physical indent — like in woodworking)
+
+</details>
