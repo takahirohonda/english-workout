@@ -241,3 +241,18 @@ To talk about specific items of news:
 ❌ Incorrect: "The code has an indentation." (unless you're referring to one specific physical indent — like in woodworking)
 
 </details>
+
+<details>
+<summary>
+20. I have a surgery tomorrow.
+</summary>
+
+**Answer** <br />
+
+✅ “I have surgery tomorrow.”
+✅ “I had surgery last year.”
+❌ “I have a surgery tomorrow.” (Unless you're being very specific in a technical or less natural way)
+
+If you're referring to a specific type of surgery, you can say: “I’m having a knee surgery next week.” (but even then, “I’m having knee surgery” sounds more natural)
+
+</details>
